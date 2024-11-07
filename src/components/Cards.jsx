@@ -1,6 +1,3 @@
-import cardImage1 from "/public/images/cardimg1.jpg"
-import cardImage2 from "/public/images/cardimg2.jpg"
-import cardImage3 from "/public/images/cardimg3.jpg"
 const Cards = () => {
   return (
     <section className="mt-24">
