@@ -1,7 +1,6 @@
 import Bug from "./components/Bug";
 import BusinessSite from "./components/BusinessSite";
 import Cards from "./components/Cards";
-import Continer from "./components/Continer";
 import Featured from "./components/Featured";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
