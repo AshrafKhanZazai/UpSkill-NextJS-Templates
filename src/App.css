@@ -1,0 +1,39 @@
+/* Hide scrollbar for Chrome, Safari, and Opera */
+::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+}
+
+/* Hide scrollbar for IE and Edge */
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Optional: If you want to hide scrollbars in all elements */
+* {
+  scrollbar-width: none; /* Firefox */
+}
+
+*::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+  color: #4a6cf7;
+  color: #4a6df773;
+}
+
+
+.hero-bg {
+  background-image: url('/public/BackgroundImage.svg');
+  background-size: cover;
+  background-position: center;
+}
+.Video-bg {
+  background-image: url('/public/images/shape.svg');
+  background-size: cover;
+  background-position: center;
+}
+
+.Users-bg {
+  background-image: url('/public/images/Users.svg');
+  background-size: cover;
+  background-position: center;
+}
